@@ -1,0 +1,538 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-04T15:38:20Z",
+            "owner": "linsa-io",
+            "repo": "books",
+            "stars": 7575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Courses",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-24T12:08:44Z",
+            "owner": "linsa-io",
+            "repo": "courses",
+            "stars": 1282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-02T22:59:20Z",
+            "owner": "linsa-io",
+            "repo": "blogs",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Research papers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-30T09:47:45Z",
+            "owner": "linsa-io",
+            "repo": "research-papers",
+            "stars": 335
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podcasts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-07T16:08:19Z",
+            "owner": "linsa-io",
+            "repo": "podcasts",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Newsletters",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-07-09T17:35:27Z",
+            "owner": "linsa-io",
+            "repo": "newsletters",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cheat sheets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:31:29Z",
+            "owner": "linsa-io",
+            "repo": "cheat-sheets",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:30:53Z",
+            "owner": "linsa-io",
+            "repo": "talks",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Learn"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alfred workflows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-01T19:22:22Z",
+            "owner": "linsa-io",
+            "repo": "alfred-workflows",
+            "stars": 2771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Command line tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T16:05:45Z",
+            "owner": "linsa-io",
+            "repo": "command-line-tools",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrome extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T14:29:41Z",
+            "owner": "linsa-io",
+            "repo": "chrome-extensions",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Safari extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-30T13:36:21Z",
+            "owner": "linsa-io",
+            "repo": "safari-extensions",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Programming languages",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-09T21:56:26Z",
+            "owner": "linsa-io",
+            "repo": "programming-languages",
+            "stars": 329
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firefox extensions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-19T11:52:41Z",
+            "owner": "linsa-io",
+            "repo": "firefox-extensions",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Telegram groups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-11-19T15:19:43Z",
+            "owner": "linsa-io",
+            "repo": "telegram-groups",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slack groups",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-06-18T12:40:10Z",
+            "owner": "linsa-io",
+            "repo": "slack-groups",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forums",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:31:58Z",
+            "owner": "linsa-io",
+            "repo": "forums",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Events",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-22T16:04:56Z",
+            "owner": "linsa-io",
+            "repo": "events",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectrum communities",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:32:58Z",
+            "owner": "linsa-io",
+            "repo": "spectrum",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Social"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "YouTube channels",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-25T15:28:59Z",
+            "owner": "linsa-io",
+            "repo": "youtube",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Documentaries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-10-03T09:58:09Z",
+            "owner": "linsa-io",
+            "repo": "documentaries",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Movies",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-24T17:37:21Z",
+            "owner": "linsa-io",
+            "repo": "movies",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TV series",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-07-15T07:49:50Z",
+            "owner": "linsa-io",
+            "repo": "tv-series",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Games",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-07-12T19:45:47Z",
+            "owner": "linsa-io",
+            "repo": "games",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Entertainment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "macOS apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-20T12:02:02Z",
+            "owner": "linsa-io",
+            "repo": "macos-apps",
+            "stars": 830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Websites",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-23T20:22:13Z",
+            "owner": "linsa-io",
+            "repo": "websites",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reddit subreddits",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:35:16Z",
+            "owner": "linsa-io",
+            "repo": "reddit",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS apps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-02T11:20:15Z",
+            "owner": "linsa-io",
+            "repo": "ios-apps",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Humans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-08-08T11:55:18Z",
+            "owner": "linsa-io",
+            "repo": "humans",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quotes",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-11T09:26:56Z",
+            "owner": "linsa-io",
+            "repo": "quotes",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quora",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:36:22Z",
+            "owner": "linsa-io",
+            "repo": "quora",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stack Exchange sites",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-06-24T00:35:52Z",
+            "owner": "linsa-io",
+            "repo": "stack-exchange",
+            "stars": 28
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-30T18:21:16Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 495070
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Awesomeness",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-23T20:19:22Z",
+            "owner": "jnv",
+            "repo": "lists",
+            "stars": 11413
+          }
+        }
+      ],
+      "title": "More Lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:41:39.059Z",
+    "original_repository": "linsa-io/curated-lists",
+    "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
+    "enhanced_repository": "enhansome/enhansome-curated-lists",
+    "enhanced_repository_description": null,
+    "title": "Awesome Curated Lists with stars"
+  }
+}
