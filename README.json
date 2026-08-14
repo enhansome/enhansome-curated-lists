@@ -14,7 +14,7 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7576
+            "stars": 7580
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 495360
+            "stars": 495749
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33606
+            "stars": 33608
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11413
+            "stars": 11417
           }
         }
       ],
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:22:55.793Z",
+    "last_updated": "2026-08-14T20:56:48.564Z",
     "original_repository": "linsa-io/curated-lists",
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
     "enhanced_repository": "enhansome/enhansome-curated-lists",
