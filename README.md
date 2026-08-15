@@ -15,8 +15,8 @@
 
 * [Alfred workflows](https://github.com/learn-anything/alfred-workflows) ⭐ 2,771 | 🐛 4 | 📅 2026-05-01
 * [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 491 | 🐛 13 | 📅 2026-07-25
-* [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 479 | 🐛 25 | 📅 2026-03-03
-* [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 391 | 🐛 2 | 📅 2022-06-30
+* [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 480 | 🐛 25 | 📅 2026-03-03
+* [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 392 | 🐛 2 | 📅 2022-06-30
 * [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 329 | 🐛 1 | 📅 2024-07-09
 * [Firefox extensions](https://github.com/learn-anything/firefox-extensions) ⭐ 64 | 🐛 2 | 📅 2022-05-19
 
@@ -41,7 +41,7 @@
 * [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 830 | 🐛 38 | 📅 2026-07-20
 * [Websites](https://github.com/learn-anything/websites) ⭐ 253 | 🐛 17 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 189 | 🐛 0 | 📅 2020-06-24
-* [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 114 | 🐛 7 | 📅 2026-07-02
+* [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 114 | 🐛 8 | 📅 2026-07-02
 * [Humans](https://github.com/learn-anything/humans) ⭐ 59 | 🐛 1 | 📅 2020-08-08
 * [Quotes](https://github.com/learn-anything/quotes) ⭐ 47 | 🐛 0 | 📅 2020-11-11
 * [Quora](https://github.com/learn-anything/quora) ⭐ 33 | 🐛 0 | 📅 2020-06-24
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 495,749 | 🐛 100 | 📅 2026-06-30
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 496,104 | 🐛 100 | 📅 2026-06-30
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,417 | 🐛 19 | 📅 2026-03-23
+* [Lists](https://github.com/jnv/lists) ⭐ 11,419 | 🐛 19 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
