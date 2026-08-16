@@ -14,7 +14,7 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7580
+            "stars": 7583
           }
         },
         {
@@ -143,10 +143,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-07-25T16:05:45Z",
+            "last_commit": "2026-08-16T10:39:55Z",
             "owner": "linsa-io",
             "repo": "command-line-tools",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-03-03T14:29:41Z",
             "owner": "linsa-io",
             "repo": "chrome-extensions",
-            "stars": 480
+            "stars": 481
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-06-30T18:21:16Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496104
+            "stars": 496529
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33610
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11419
+            "stars": 11420
           }
         }
       ],
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T20:50:02.541Z",
+    "last_updated": "2026-08-16T20:49:13.993Z",
     "original_repository": "linsa-io/curated-lists",
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
     "enhanced_repository": "enhansome/enhansome-curated-lists",
