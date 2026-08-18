@@ -14,7 +14,7 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7585
+            "stars": 7587
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2022-02-24T12:08:44Z",
             "owner": "linsa-io",
             "repo": "courses",
-            "stars": 1282
+            "stars": 1283
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2024-07-09T21:56:26Z",
             "owner": "linsa-io",
             "repo": "programming-languages",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -489,10 +489,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 496949
+            "stars": 497384
           }
         },
         {
@@ -506,7 +506,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33608
+            "stars": 33609
           }
         },
         {
@@ -520,7 +520,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11424
+            "stars": 11422
           }
         }
       ],
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T20:55:24.309Z",
+    "last_updated": "2026-08-18T20:51:35.896Z",
     "original_repository": "linsa-io/curated-lists",
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
     "enhanced_repository": "enhansome/enhansome-curated-lists",

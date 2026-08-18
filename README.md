@@ -2,8 +2,8 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,585 | 🐛 15 | 📅 2026-03-04
-* [Courses](https://github.com/learn-anything/courses) ⭐ 1,282 | 🐛 4 | 📅 2022-02-24
+* [Books](https://github.com/learn-anything/books) ⭐ 7,587 | 🐛 15 | 📅 2026-03-04
+* [Courses](https://github.com/learn-anything/courses) ⭐ 1,283 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 335 | 🐛 0 | 📅 2020-07-30
 * [Podcasts](https://github.com/learn-anything/podcasts) ⭐ 93 | 🐛 1 | 📅 2023-04-07
@@ -14,10 +14,10 @@
 ## Tools
 
 * [Alfred workflows](https://github.com/learn-anything/alfred-workflows) ⭐ 2,771 | 🐛 4 | 📅 2026-05-01
-* [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 492 | 🐛 14 | 📅 2026-08-16
+* [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 492 | 🐛 15 | 📅 2026-08-16
 * [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 481 | 🐛 25 | 📅 2026-03-03
 * [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 392 | 🐛 2 | 📅 2022-06-30
-* [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 329 | 🐛 1 | 📅 2024-07-09
+* [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 330 | 🐛 1 | 📅 2024-07-09
 * [Firefox extensions](https://github.com/learn-anything/firefox-extensions) ⭐ 64 | 🐛 2 | 📅 2022-05-19
 
 ## Social
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 496,949 | 🐛 101 | 📅 2026-06-30
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,424 | 🐛 20 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 497,384 | 🐛 102 | 📅 2026-08-18
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,422 | 🐛 21 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
