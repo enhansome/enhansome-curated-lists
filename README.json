@@ -15,7 +15,7 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7589
+            "stars": 7592
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-16T10:39:55Z",
             "owner": "linsa-io",
             "repo": "command-line-tools",
-            "stars": 492
+            "stars": 494
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2022-11-19T15:19:43Z",
             "owner": "linsa-io",
             "repo": "telegram-groups",
-            "stars": 67
+            "stars": 66
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497658
+            "stars": 497788
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11422
+            "stars": 11421
           }
         }
       ],
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:22:08.653Z",
+    "last_updated": "2026-08-19T20:55:05.671Z",
     "original_repository": "linsa-io/curated-lists",
     "original_repository_id": 121403985,
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
