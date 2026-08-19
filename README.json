@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93441336,
             "language": null,
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7587
+            "stars": 7589
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93441989,
             "language": null,
             "last_commit": "2022-02-24T12:08:44Z",
             "owner": "linsa-io",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93656741,
             "language": null,
             "last_commit": "2024-01-02T22:59:20Z",
             "owner": "linsa-io",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93449239,
             "language": null,
             "last_commit": "2020-07-30T09:47:45Z",
             "owner": "linsa-io",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93999853,
             "language": null,
             "last_commit": "2023-04-07T16:08:19Z",
             "owner": "linsa-io",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94785675,
             "language": null,
             "last_commit": "2025-07-09T17:35:27Z",
             "owner": "linsa-io",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121147928,
             "language": null,
             "last_commit": "2020-06-24T00:31:29Z",
             "owner": "linsa-io",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95818130,
             "language": null,
             "last_commit": "2020-06-24T00:30:53Z",
             "owner": "linsa-io",
@@ -119,7 +127,7 @@
       "title": "Learn"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93960104,
             "language": null,
             "last_commit": "2026-05-01T19:22:22Z",
             "owner": "linsa-io",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93959870,
             "language": null,
             "last_commit": "2026-08-16T10:39:55Z",
             "owner": "linsa-io",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104637842,
             "language": null,
             "last_commit": "2026-03-03T14:29:41Z",
             "owner": "linsa-io",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98917462,
             "language": null,
             "last_commit": "2022-06-30T13:36:21Z",
             "owner": "linsa-io",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118059256,
             "language": null,
             "last_commit": "2024-07-09T21:56:26Z",
             "owner": "linsa-io",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118159248,
             "language": null,
             "last_commit": "2022-05-19T11:52:41Z",
             "owner": "linsa-io",
@@ -209,7 +223,7 @@
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122878212,
             "language": null,
             "last_commit": "2022-11-19T15:19:43Z",
             "owner": "linsa-io",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118057037,
             "language": null,
             "last_commit": "2021-06-18T12:40:10Z",
             "owner": "linsa-io",
@@ -246,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125952548,
             "language": null,
             "last_commit": "2020-06-24T00:31:58Z",
             "owner": "linsa-io",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149173641,
             "language": null,
             "last_commit": "2020-08-22T16:04:56Z",
             "owner": "linsa-io",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118058292,
             "language": null,
             "last_commit": "2020-06-24T00:32:58Z",
             "owner": "linsa-io",
@@ -285,7 +304,7 @@
       "title": "Social"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93638870,
             "language": null,
             "last_commit": "2026-02-25T15:28:59Z",
             "owner": "linsa-io",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94534169,
             "language": null,
             "last_commit": "2020-10-03T09:58:09Z",
             "owner": "linsa-io",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95711815,
             "language": null,
             "last_commit": "2024-05-24T17:37:21Z",
             "owner": "linsa-io",
@@ -336,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95706280,
             "language": null,
             "last_commit": "2022-07-15T07:49:50Z",
             "owner": "linsa-io",
@@ -350,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94096778,
             "language": null,
             "last_commit": "2023-07-12T19:45:47Z",
             "owner": "linsa-io",
@@ -361,7 +385,7 @@
       "title": "Entertainment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -370,6 +394,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93969351,
             "language": null,
             "last_commit": "2026-07-20T12:02:02Z",
             "owner": "linsa-io",
@@ -384,6 +409,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118050627,
             "language": null,
             "last_commit": "2026-06-23T20:22:13Z",
             "owner": "linsa-io",
@@ -398,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93789979,
             "language": null,
             "last_commit": "2020-06-24T00:35:16Z",
             "owner": "linsa-io",
@@ -412,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98929338,
             "language": null,
             "last_commit": "2026-07-02T11:20:15Z",
             "owner": "linsa-io",
@@ -426,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93538640,
             "language": null,
             "last_commit": "2020-08-08T11:55:18Z",
             "owner": "linsa-io",
@@ -440,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95800980,
             "language": null,
             "last_commit": "2020-11-11T09:26:56Z",
             "owner": "linsa-io",
@@ -454,6 +484,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93792265,
             "language": null,
             "last_commit": "2020-06-24T00:36:22Z",
             "owner": "linsa-io",
@@ -468,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122862549,
             "language": null,
             "last_commit": "2020-06-24T00:35:52Z",
             "owner": "linsa-io",
@@ -479,7 +511,7 @@
       "title": "Other"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -488,11 +520,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497384
+            "stars": 497658
           }
         },
         {
@@ -502,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21600440,
             "language": "Ruby",
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
@@ -516,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14408715,
             "language": null,
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
@@ -528,8 +563,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T20:51:35.896Z",
+    "last_updated": "2026-08-19T12:22:08.653Z",
     "original_repository": "linsa-io/curated-lists",
+    "original_repository_id": 121403985,
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
     "enhanced_repository": "enhansome/enhansome-curated-lists",
     "enhanced_repository_description": null,
