@@ -2,7 +2,7 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,597 | 🐛 15 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,599 | 🐛 15 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,283 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 336 | 🐛 0 | 📅 2020-07-30
@@ -17,7 +17,7 @@
 * [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 494 | 🐛 15 | 📅 2026-08-16
 * [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 481 | 🐛 26 | 📅 2026-03-03
 * [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 392 | 🐛 2 | 📅 2022-06-30
-* [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 330 | 🐛 1 | 📅 2024-07-09
+* [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 331 | 🐛 1 | 📅 2024-07-09
 * [Firefox extensions](https://github.com/learn-anything/firefox-extensions) ⭐ 64 | 🐛 2 | 📅 2022-05-19
 
 ## Social
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 498,205 | 🐛 105 | 📅 2026-08-18
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,612 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,424 | 🐛 21 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 498,613 | 🐛 105 | 📅 2026-08-21
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,616 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,429 | 🐛 21 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
