@@ -2,7 +2,7 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,603 | 🐛 15 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,605 | 🐛 15 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,283 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 336 | 🐛 0 | 📅 2020-07-30
@@ -49,9 +49,9 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,437 | 🐛 22 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 499,590 | 🐛 106 | 📅 2026-08-21
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,621 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,438 | 🐛 22 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
