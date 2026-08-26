@@ -15,7 +15,7 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7605
+            "stars": 7607
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2022-02-24T12:08:44Z",
             "owner": "linsa-io",
             "repo": "courses",
-            "stars": 1283
+            "stars": 1284
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-01-02T22:59:20Z",
             "owner": "linsa-io",
             "repo": "blogs",
-            "stars": 533
+            "stars": 534
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2020-07-30T09:47:45Z",
             "owner": "linsa-io",
             "repo": "research-papers",
-            "stars": 336
+            "stars": 337
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-07-09T17:35:27Z",
             "owner": "linsa-io",
             "repo": "newsletters",
-            "stars": 85
+            "stars": 86
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2020-06-24T00:31:29Z",
             "owner": "linsa-io",
             "repo": "cheat-sheets",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-05-01T19:22:22Z",
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2771
+            "stars": 2772
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-03-03T14:29:41Z",
             "owner": "linsa-io",
             "repo": "chrome-extensions",
-            "stars": 481
+            "stars": 482
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2022-06-30T13:36:21Z",
             "owner": "linsa-io",
             "repo": "safari-extensions",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2024-07-09T21:56:26Z",
             "owner": "linsa-io",
             "repo": "programming-languages",
-            "stars": 331
+            "stars": 332
           }
         },
         {
@@ -237,7 +237,7 @@
             "last_commit": "2022-11-19T15:19:43Z",
             "owner": "linsa-io",
             "repo": "telegram-groups",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2021-06-18T12:40:10Z",
             "owner": "linsa-io",
             "repo": "slack-groups",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2020-06-24T00:31:58Z",
             "owner": "linsa-io",
             "repo": "forums",
-            "stars": 37
+            "stars": 38
           }
         },
         {
@@ -297,7 +297,7 @@
             "last_commit": "2020-06-24T00:32:58Z",
             "owner": "linsa-io",
             "repo": "spectrum",
-            "stars": 9
+            "stars": 10
           }
         }
       ],
@@ -318,7 +318,7 @@
             "last_commit": "2026-02-25T15:28:59Z",
             "owner": "linsa-io",
             "repo": "youtube",
-            "stars": 184
+            "stars": 185
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2020-10-03T09:58:09Z",
             "owner": "linsa-io",
             "repo": "documentaries",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-07-20T12:02:02Z",
             "owner": "linsa-io",
             "repo": "macos-apps",
-            "stars": 832
+            "stars": 833
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-06-23T20:22:13Z",
             "owner": "linsa-io",
             "repo": "websites",
-            "stars": 253
+            "stars": 254
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2020-06-24T00:35:16Z",
             "owner": "linsa-io",
             "repo": "reddit",
-            "stars": 189
+            "stars": 190
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-07-02T11:20:15Z",
             "owner": "linsa-io",
             "repo": "ios-apps",
-            "stars": 114
+            "stars": 115
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2020-08-08T11:55:18Z",
             "owner": "linsa-io",
             "repo": "humans",
-            "stars": 59
+            "stars": 60
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2020-06-24T00:35:52Z",
             "owner": "linsa-io",
             "repo": "stack-exchange",
-            "stars": 28
+            "stars": 29
           }
         }
       ],
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499894
+            "stars": 500233
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33624
+            "stars": 33626
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11438
+            "stars": 11439
           }
         }
       ],
@@ -563,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:56:30.093Z",
+    "last_updated": "2026-08-26T23:58:49.341Z",
     "original_repository": "linsa-io/curated-lists",
     "original_repository_id": 121403985,
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
