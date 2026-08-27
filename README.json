@@ -15,7 +15,7 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7607
+            "stars": 7608
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-07-20T12:02:02Z",
             "owner": "linsa-io",
             "repo": "macos-apps",
-            "stars": 833
+            "stars": 835
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500233
+            "stars": 500361
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33626
+            "stars": 33628
           }
         },
         {
@@ -563,9 +563,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T23:58:49.341Z",
-    "original_repository": "linsa-io/curated-lists",
-    "original_repository_id": 121403985,
+    "last_updated": "2026-08-27T11:32:47.905Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 121403985,
+      "language": null,
+      "last_commit": "2023-11-13T08:26:54Z",
+      "owner": "linsa-io",
+      "repo": "curated-lists",
+      "stars": 944
+    },
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
     "enhanced_repository": "enhansome/enhansome-curated-lists",
     "enhanced_repository_description": null,
