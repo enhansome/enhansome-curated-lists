@@ -15,8 +15,9 @@
             "last_commit": "2026-03-04T15:38:20Z",
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7608
-          }
+            "stars": 7612
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2022-02-24T12:08:44Z",
             "owner": "linsa-io",
             "repo": "courses",
-            "stars": 1284
-          }
+            "stars": 1285
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "linsa-io",
             "repo": "blogs",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "linsa-io",
             "repo": "research-papers",
             "stars": 337
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "linsa-io",
             "repo": "podcasts",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "linsa-io",
             "repo": "newsletters",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "linsa-io",
             "repo": "cheat-sheets",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "linsa-io",
             "repo": "talks",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         }
       ],
       "title": "Learn"
@@ -142,7 +150,8 @@
             "owner": "linsa-io",
             "repo": "alfred-workflows",
             "stars": 2772
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "linsa-io",
             "repo": "command-line-tools",
             "stars": 494
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 482
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "linsa-io",
             "repo": "safari-extensions",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "linsa-io",
             "repo": "programming-languages",
             "stars": 332
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "linsa-io",
             "repo": "firefox-extensions",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         }
       ],
       "title": "Tools"
@@ -238,7 +252,8 @@
             "owner": "linsa-io",
             "repo": "telegram-groups",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "linsa-io",
             "repo": "slack-groups",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "linsa-io",
             "repo": "forums",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "linsa-io",
             "repo": "events",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "linsa-io",
             "repo": "spectrum",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         }
       ],
       "title": "Social"
@@ -319,7 +338,8 @@
             "owner": "linsa-io",
             "repo": "youtube",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "linsa-io",
             "repo": "documentaries",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "linsa-io",
             "repo": "movies",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "linsa-io",
             "repo": "tv-series",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "linsa-io",
             "repo": "games",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         }
       ],
       "title": "Entertainment"
@@ -400,7 +424,8 @@
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 835
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -415,7 +440,8 @@
             "owner": "linsa-io",
             "repo": "websites",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "linsa-io",
             "repo": "reddit",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "linsa-io",
             "repo": "ios-apps",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "linsa-io",
             "repo": "humans",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "linsa-io",
             "repo": "quotes",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -490,7 +520,8 @@
             "owner": "linsa-io",
             "repo": "quora",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -505,7 +536,8 @@
             "owner": "linsa-io",
             "repo": "stack-exchange",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         }
       ],
       "title": "Other"
@@ -525,8 +557,9 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500361
-          }
+            "stars": 500596
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -540,8 +573,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
-          }
+            "stars": 33632
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         },
         {
           "node_type": "item",
@@ -555,15 +589,16 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11439
-          }
+            "stars": 11441
+          },
+          "first_seen": "2026-08-28T04:25:45.926Z"
         }
       ],
       "title": "More Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:47.905Z",
+    "last_updated": "2026-08-28T04:25:45.926Z",
     "original_repository_info": {
       "archived": false,
       "id": 121403985,
