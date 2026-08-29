@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Books",
+            "homepage": null,
             "id": 93441336,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-04T15:38:20Z",
+            "open_issues": 15,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7613
+            "stars": 7613,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "books",
+              "education",
+              "free",
+              "learn-anything",
+              "learning",
+              "list",
+              "pdf",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -26,12 +42,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Courses",
+            "homepage": null,
             "id": 93441989,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-24T12:08:44Z",
+            "open_issues": 4,
             "owner": "linsa-io",
             "repo": "courses",
-            "stars": 1286
+            "stars": 1286,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "courses",
+              "education",
+              "learning",
+              "list",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -42,12 +71,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Blogs",
+            "homepage": null,
             "id": 93656741,
             "language": null,
+            "license": null,
             "last_commit": "2024-01-02T22:59:20Z",
+            "open_issues": 8,
             "owner": "linsa-io",
             "repo": "blogs",
-            "stars": 534
+            "stars": 534,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "blogs",
+              "curated-list",
+              "knowledge"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -58,12 +98,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Research Papers",
+            "homepage": null,
             "id": 93449239,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-30T09:47:45Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "research-papers",
-            "stars": 337
+            "stars": 337,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "knowledge",
+              "research",
+              "research-paper",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -74,12 +126,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Podcasts",
+            "homepage": null,
             "id": 93999853,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-07T16:08:19Z",
+            "open_issues": 1,
             "owner": "linsa-io",
             "repo": "podcasts",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "knowledge",
+              "learning",
+              "podcasts"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -90,12 +154,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Newsletters",
+            "homepage": null,
             "id": 94785675,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-09T17:35:27Z",
+            "open_issues": 12,
             "owner": "linsa-io",
             "repo": "newsletters",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "knowledge",
+              "learning",
+              "newsletters"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -106,12 +182,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Cheat Sheets",
+            "homepage": null,
             "id": 121147928,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:31:29Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "cheat-sheets",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cheat-sheet",
+              "cheat-sheets",
+              "cheatsheet",
+              "learning"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -122,12 +210,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Talks ",
+            "homepage": null,
             "id": 95818130,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:30:53Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "talks",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "learning",
+              "talks",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         }
@@ -144,12 +243,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Amazing Alfred Workflows",
+            "homepage": null,
             "id": 93960104,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-01T19:22:22Z",
+            "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2772
+            "stars": 2772,
+            "topics": [
+              "alfred",
+              "alfred-workflow",
+              "alfred-workflows",
+              "automation",
+              "awesome",
+              "awesome-list",
+              "community",
+              "curated-list",
+              "macos"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -160,12 +274,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Command Line Utilities",
+            "homepage": null,
             "id": 93959870,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
+            "open_issues": 17,
             "owner": "linsa-io",
             "repo": "command-line-tools",
-            "stars": 494
+            "stars": 494,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "command-line-tools",
+              "curated-list",
+              "knowledge",
+              "learning"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -176,12 +302,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Chrome Extensions",
+            "homepage": null,
             "id": 104637842,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
+            "open_issues": 31,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "chrome",
+              "chrome-dev",
+              "chrome-extensions",
+              "curated-list"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -192,12 +330,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Safari extensions ",
+            "homepage": null,
             "id": 98917462,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-30T13:36:21Z",
+            "open_issues": 2,
             "owner": "linsa-io",
             "repo": "safari-extensions",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "learning",
+              "safari",
+              "safari-extension"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -208,12 +357,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Programming Languages",
+            "homepage": null,
             "id": 118059256,
             "language": null,
+            "license": null,
             "last_commit": "2024-07-09T21:56:26Z",
+            "open_issues": 2,
             "owner": "linsa-io",
             "repo": "programming-languages",
-            "stars": 332
+            "stars": 332,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "learning",
+              "programming-languages"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -224,12 +384,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Firefox Extensions",
+            "homepage": null,
             "id": 118159248,
             "language": null,
+            "license": null,
             "last_commit": "2022-05-19T11:52:41Z",
+            "open_issues": 2,
             "owner": "linsa-io",
             "repo": "firefox-extensions",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "firefox",
+              "firefox-addon",
+              "firefox-extension",
+              "firefox-webextension"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         }
@@ -246,12 +419,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Telegram Groups",
+            "homepage": null,
             "id": 122878212,
             "language": null,
+            "license": null,
             "last_commit": "2022-11-19T15:19:43Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "telegram-groups",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "social",
+              "telegram",
+              "telegram-group"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -262,12 +447,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Slack Groups",
+            "homepage": null,
             "id": 118057037,
             "language": null,
+            "license": null,
             "last_commit": "2021-06-18T12:40:10Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "slack-groups",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "learning",
+              "slack",
+              "slack-groups",
+              "slack-team"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -278,12 +476,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Forums",
+            "homepage": null,
             "id": 125952548,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:31:58Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "forums",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "forums",
+              "resources",
+              "websites"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -294,12 +504,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome events",
+            "homepage": null,
             "id": 149173641,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-22T16:04:56Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "events",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "conferences",
+              "events",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -310,12 +531,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Spectrum Communities",
+            "homepage": null,
             "id": 118058292,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:32:58Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "spectrum",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "social",
+              "spectrum"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         }
@@ -332,12 +564,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome YouTube channels",
+            "homepage": null,
             "id": 93638870,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-25T15:28:59Z",
+            "open_issues": 2,
             "owner": "linsa-io",
             "repo": "youtube",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "knowledge",
+              "youtube",
+              "youtube-channel"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -348,12 +592,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Documentaries",
+            "homepage": null,
             "id": 94534169,
             "language": null,
+            "license": null,
             "last_commit": "2020-10-03T09:58:09Z",
+            "open_issues": 1,
             "owner": "linsa-io",
             "repo": "documentaries",
-            "stars": 78
+            "stars": 78,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "documentaries",
+              "documentary",
+              "learning"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -364,12 +620,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Movies",
+            "homepage": null,
             "id": 95711815,
             "language": null,
+            "license": null,
             "last_commit": "2024-05-24T17:37:21Z",
+            "open_issues": 2,
             "owner": "linsa-io",
             "repo": "movies",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "movie-recommendation",
+              "movies"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -380,12 +647,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome TV Series",
+            "homepage": null,
             "id": 95706280,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-15T07:49:50Z",
+            "open_issues": 1,
             "owner": "linsa-io",
             "repo": "tv-series",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "shows",
+              "tv-series",
+              "tv-shows"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -396,12 +675,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Games",
+            "homepage": null,
             "id": 94096778,
             "language": null,
+            "license": null,
             "last_commit": "2023-07-12T19:45:47Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "games",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "games"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         }
@@ -418,12 +707,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome macOS apps",
+            "homepage": null,
             "id": 93969351,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-20T12:02:02Z",
+            "open_issues": 56,
             "owner": "linsa-io",
             "repo": "macos-apps",
-            "stars": 835
+            "stars": 835,
+            "topics": [
+              "apps",
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "macos",
+              "macos-app",
+              "macos-apps"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -434,12 +736,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Websites",
+            "homepage": null,
             "id": 118050627,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
+            "open_issues": 19,
             "owner": "linsa-io",
             "repo": "websites",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "resources",
+              "website",
+              "websites"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -450,12 +764,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Reddit subreddits",
+            "homepage": null,
             "id": 93789979,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:35:16Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "reddit",
-            "stars": 190
+            "stars": 190,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "reddit",
+              "reddit-subreddit",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -466,12 +792,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome iOS apps",
+            "homepage": null,
             "id": 98929338,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-02T11:20:15Z",
+            "open_issues": 10,
             "owner": "linsa-io",
             "repo": "ios-apps",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated",
+              "ios",
+              "ios-app",
+              "ios-swift",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -482,12 +821,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Humans",
+            "homepage": null,
             "id": 93538640,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-08T11:55:18Z",
+            "open_issues": 1,
             "owner": "linsa-io",
             "repo": "humans",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "humans",
+              "knowledge",
+              "learning",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -498,12 +849,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Quotes ",
+            "homepage": null,
             "id": 95800980,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-11T09:26:56Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "quotes",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "learning",
+              "quotes"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -514,12 +875,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Quora Topics",
+            "homepage": null,
             "id": 93792265,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:36:22Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "quora",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "quora",
+              "quora-communities",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -530,12 +903,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome Stack Exchange Communities",
+            "homepage": null,
             "id": 122862549,
             "language": null,
+            "license": null,
             "last_commit": "2020-06-24T00:35:52Z",
+            "open_issues": 0,
             "owner": "linsa-io",
             "repo": "stack-exchange",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-list",
+              "resources",
+              "stack",
+              "stackexchange"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         }
@@ -552,12 +937,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500877
+            "stars": 500891,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -568,12 +964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         },
@@ -584,12 +985,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
+            "homepage": null,
             "id": 14408715,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
+            "open_issues": 22,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11441
+            "stars": 11441,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curated-lists",
+              "lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
         }
@@ -598,15 +1010,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:53:12.358Z",
+    "last_updated": "2026-08-29T04:34:08.110Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated lists on various topics",
+      "homepage": null,
       "id": 121403985,
       "language": null,
+      "license": null,
       "last_commit": "2023-11-13T08:26:54Z",
+      "open_issues": 2,
       "owner": "linsa-io",
       "repo": "curated-lists",
-      "stars": 944
+      "stars": 944,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "curated-list",
+        "learning",
+        "lists",
+        "resources"
+      ]
     },
     "original_repository_sha": "7809b9df560dad7a1c2f147d8431ea63231790ee",
     "enhanced_repository": "enhansome/enhansome-curated-lists",

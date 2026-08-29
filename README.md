@@ -49,7 +49,7 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 500,877 | 🐛 105 | 📅 2026-08-21
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
 * [Lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23
 
