@@ -38,7 +38,7 @@
 
 ## Other
 
-* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 835 | 🐛 56 | 📅 2026-07-20
+* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 835 | 🐛 57 | 📅 2026-07-20
 * [Websites](https://github.com/learn-anything/websites) ⭐ 254 | 🐛 19 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 190 | 🐛 0 | 📅 2020-06-24
 * [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 115 | 🐛 10 | 📅 2026-07-02
@@ -49,9 +49,9 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 501,149 | 🐛 105 | 📅 2026-08-21
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,637 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,443 | 🐛 24 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
