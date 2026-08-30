@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7613,
+            "stars": 7615,
             "topics": [
               "awesome",
               "awesome-list",
@@ -107,7 +107,7 @@
             "open_issues": 0,
             "owner": "linsa-io",
             "repo": "research-papers",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -946,7 +946,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501149,
+            "stars": 501437,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:44:44.649Z",
+    "last_updated": "2026-08-30T22:53:36.630Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",

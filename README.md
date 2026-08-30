@@ -2,10 +2,10 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,613 | 🐛 15 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,615 | 🐛 15 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,286 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 534 | 🐛 8 | 📅 2024-01-02
-* [Research papers](https://github.com/learn-anything/research-papers) ⭐ 337 | 🐛 0 | 📅 2020-07-30
+* [Research papers](https://github.com/learn-anything/research-papers) ⭐ 338 | 🐛 0 | 📅 2020-07-30
 * [Podcasts](https://github.com/learn-anything/podcasts) ⭐ 93 | 🐛 1 | 📅 2023-04-07
 * [Newsletters](https://github.com/learn-anything/newsletters) ⭐ 86 | 🐛 12 | 📅 2025-07-09
 * [Cheat sheets](https://github.com/learn-anything/cheat-sheets) ⭐ 65 | 🐛 0 | 📅 2020-06-24
@@ -15,7 +15,7 @@
 
 * [Alfred workflows](https://github.com/learn-anything/alfred-workflows) ⭐ 2,772 | 🐛 4 | 📅 2026-05-01
 * [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 494 | 🐛 17 | 📅 2026-08-16
-* [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 482 | 🐛 31 | 📅 2026-03-03
+* [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 482 | 🐛 32 | 📅 2026-03-03
 * [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 393 | 🐛 2 | 📅 2022-06-30
 * [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 332 | 🐛 2 | 📅 2024-07-09
 * [Firefox extensions](https://github.com/learn-anything/firefox-extensions) ⭐ 64 | 🐛 2 | 📅 2022-05-19
@@ -49,7 +49,7 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 501,149 | 🐛 105 | 📅 2026-08-21
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 501,437 | 🐛 105 | 📅 2026-08-21
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,637 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
 * [Lists](https://github.com/jnv/lists) ⭐ 11,443 | 🐛 24 | 📅 2026-03-23
 
@@ -57,4 +57,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
