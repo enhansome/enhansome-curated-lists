@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7617,
+            "stars": 7622,
             "topics": [
               "awesome",
               "awesome-list",
@@ -252,7 +252,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2772,
+            "stars": 2773,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -283,7 +283,7 @@
             "open_issues": 17,
             "owner": "linsa-io",
             "repo": "command-line-tools",
-            "stars": 494,
+            "stars": 495,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 31,
+            "open_issues": 32,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-20T12:02:02Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 835,
@@ -946,7 +946,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501731,
+            "stars": 502034,
             "topics": [
               "awesome",
               "awesome-list",
@@ -994,7 +994,7 @@
             "open_issues": 24,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11447,
+            "stars": 11450,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:01:23.013Z",
+    "last_updated": "2026-09-01T22:44:30.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
