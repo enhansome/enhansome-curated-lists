@@ -2,7 +2,7 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,634 | 🐛 15 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,638 | 🐛 15 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,290 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 534 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 339 | 🐛 0 | 📅 2020-07-30
@@ -38,8 +38,8 @@
 
 ## Other
 
-* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 837 | 🐛 62 | 📅 2026-07-20
-* [Websites](https://github.com/learn-anything/websites) ⭐ 254 | 🐛 18 | 📅 2026-06-23
+* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 837 | 🐛 67 | 📅 2026-07-20
+* [Websites](https://github.com/learn-anything/websites) ⭐ 255 | 🐛 18 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 190 | 🐛 0 | 📅 2020-06-24
 * [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 115 | 🐛 10 | 📅 2026-07-02
 * [Humans](https://github.com/learn-anything/humans) ⭐ 61 | 🐛 1 | 📅 2020-08-08
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 503,966 | 🐛 106 | 📅 2026-09-02
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,657 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,465 | 🐛 25 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 504,260 | 🐛 106 | 📅 2026-09-02
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,660 | 🐛 63 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,467 | 🐛 25 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
