@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7649,
+            "stars": 7651,
             "topics": [
               "awesome",
               "awesome-list",
@@ -252,7 +252,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2774,
+            "stars": 2775,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -280,7 +280,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "linsa-io",
             "repo": "command-line-tools",
             "stars": 495,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 71,
+            "open_issues": 72,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 839,
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506390,
+            "stars": 506775,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33674,
+            "stars": 33675,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11484,
+            "stars": 11486,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:06:34.544Z",
+    "last_updated": "2026-09-16T23:11:22.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
