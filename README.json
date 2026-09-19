@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7656,
+            "stars": 7658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -252,7 +252,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2775,
+            "stars": 2776,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 73,
+            "open_issues": 75,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 839,
@@ -798,7 +798,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-02T11:20:15Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "linsa-io",
             "repo": "ios-apps",
             "stars": 116,
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507508,
+            "stars": 507861,
             "topics": [
               "awesome",
               "awesome-list",
@@ -994,7 +994,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11490,
+            "stars": 11494,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T22:45:17.817Z",
+    "last_updated": "2026-09-19T22:25:35.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
