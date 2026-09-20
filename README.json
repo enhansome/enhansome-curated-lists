@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7658,
+            "stars": 7661,
             "topics": [
               "awesome",
               "awesome-list",
@@ -191,7 +191,7 @@
             "open_issues": 0,
             "owner": "linsa-io",
             "repo": "cheat-sheets",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 41,
+            "open_issues": 43,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 481,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 75,
+            "open_issues": 77,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 839,
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 507861,
+            "stars": 508236,
             "topics": [
               "awesome",
               "awesome-list",
@@ -994,7 +994,7 @@
             "open_issues": 27,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11494,
+            "stars": 11503,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:25:35.924Z",
+    "last_updated": "2026-09-20T22:38:07.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
