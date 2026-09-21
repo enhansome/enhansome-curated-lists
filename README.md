@@ -2,8 +2,8 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,661 | 🐛 16 | 📅 2026-03-04
-* [Courses](https://github.com/learn-anything/courses) ⭐ 1,291 | 🐛 4 | 📅 2022-02-24
+* [Books](https://github.com/learn-anything/books) ⭐ 7,663 | 🐛 16 | 📅 2026-03-04
+* [Courses](https://github.com/learn-anything/courses) ⭐ 1,292 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 339 | 🐛 0 | 📅 2020-07-30
 * [Podcasts](https://github.com/learn-anything/podcasts) ⭐ 93 | 🐛 1 | 📅 2023-04-07
@@ -16,8 +16,8 @@
 * [Alfred workflows](https://github.com/learn-anything/alfred-workflows) ⭐ 2,776 | 🐛 4 | 📅 2026-05-01
 * [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 495 | 🐛 17 | 📅 2026-08-16
 * [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 481 | 🐛 43 | 📅 2026-03-03
-* [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 393 | 🐛 3 | 📅 2022-06-30
-* [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 332 | 🐛 2 | 📅 2024-07-09
+* [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 394 | 🐛 3 | 📅 2022-06-30
+* [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 332 | 🐛 3 | 📅 2024-07-09
 * [Firefox extensions](https://github.com/learn-anything/firefox-extensions) ⭐ 64 | 🐛 3 | 📅 2022-05-19
 
 ## Social
@@ -38,7 +38,7 @@
 
 ## Other
 
-* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 839 | 🐛 77 | 📅 2026-09-09
+* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 838 | 🐛 78 | 📅 2026-09-09
 * [Websites](https://github.com/learn-anything/websites) ⭐ 255 | 🐛 20 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 190 | 🐛 0 | 📅 2020-06-24
 * [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 116 | 🐛 12 | 📅 2026-07-02
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 508,236 | 🐛 106 | 📅 2026-09-02
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,681 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,503 | 🐛 27 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 508,625 | 🐛 106 | 📅 2026-09-02
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,679 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,505 | 🐛 27 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
