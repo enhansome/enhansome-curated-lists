@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7664,
+            "stars": 7667,
             "topics": [
               "awesome",
               "awesome-list",
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 509015,
+            "stars": 509437,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33681,
+            "stars": 33684,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -991,10 +991,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11506,
+            "stars": 11507,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:11:43.337Z",
+    "last_updated": "2026-09-23T23:03:48.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
