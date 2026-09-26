@@ -2,7 +2,7 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,671 | 🐛 16 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,672 | 🐛 16 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,292 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 339 | 🐛 0 | 📅 2020-07-30
@@ -32,14 +32,14 @@
 
 * [YouTube channels](https://github.com/learn-anything/youtube) ⭐ 185 | 🐛 2 | 📅 2026-02-25
 * [Documentaries](https://github.com/learn-anything/documentaries) ⭐ 79 | 🐛 1 | 📅 2020-10-03
-* [Movies](https://github.com/learn-anything/movies) ⭐ 42 | 🐛 2 | 📅 2024-05-24
+* [Movies](https://github.com/learn-anything/movies) ⭐ 43 | 🐛 2 | 📅 2024-05-24
 * [TV series](https://github.com/learn-anything/tv-series) ⭐ 41 | 🐛 1 | 📅 2022-07-15
 * [Games](https://github.com/learn-anything/games) ⭐ 28 | 🐛 0 | 📅 2023-07-12
 
 ## Other
 
-* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 838 | 🐛 83 | 📅 2026-09-09
-* [Websites](https://github.com/learn-anything/websites) ⭐ 255 | 🐛 21 | 📅 2026-06-23
+* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 838 | 🐛 82 | 📅 2026-09-09
+* [Websites](https://github.com/learn-anything/websites) ⭐ 255 | 🐛 22 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 190 | 🐛 0 | 📅 2020-06-24
 * [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 116 | 🐛 11 | 📅 2026-07-02
 * [Humans](https://github.com/learn-anything/humans) ⭐ 61 | 🐛 1 | 📅 2020-08-08
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 510,446 | 🐛 107 | 📅 2026-09-02
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 510,979 | 🐛 107 | 📅 2026-09-02
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,688 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,506 | 🐛 30 | 📅 2026-03-23
+* [Lists](https://github.com/jnv/lists) ⭐ 11,509 | 🐛 30 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
