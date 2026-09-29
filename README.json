@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7674,
+            "stars": 7676,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 44,
+            "open_issues": 45,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 480,
@@ -742,7 +742,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "linsa-io",
             "repo": "websites",
             "stars": 255,
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 511469,
+            "stars": 511995,
             "topics": [
               "awesome",
               "awesome-list",
@@ -970,10 +970,10 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33691,
+            "stars": 33694,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 30,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11512,
+            "stars": 11514,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:18:32.701Z",
+    "last_updated": "2026-09-29T00:29:03.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
