@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7677,
+            "stars": 7678,
             "topics": [
               "awesome",
               "awesome-list",
@@ -716,7 +716,7 @@
             "open_issues": 84,
             "owner": "linsa-io",
             "repo": "macos-apps",
-            "stars": 838,
+            "stars": 839,
             "topics": [
               "apps",
               "awesome",
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 512444,
+            "stars": 512880,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33695,
+            "stars": 33696,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -991,10 +991,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 30,
+            "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11518,
+            "stars": 11519,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:54:35.226Z",
+    "last_updated": "2026-10-01T00:05:46.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
