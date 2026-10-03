@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Books",
-          "description": null,
+          "description": "linsa-io/books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7681,
+            "stars": 7683,
             "topics": [
               "awesome",
               "awesome-list",
@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "Courses",
-          "description": null,
+          "description": "linsa-io/courses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "courses",
-            "stars": 1292,
+            "stars": 1293,
             "topics": [
               "awesome",
               "awesome-list",
@@ -67,7 +67,7 @@
         {
           "node_type": "item",
           "title": "Blogs",
-          "description": null,
+          "description": "linsa-io/blogs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -94,7 +94,7 @@
         {
           "node_type": "item",
           "title": "Research papers",
-          "description": null,
+          "description": "linsa-io/research-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "Podcasts",
-          "description": null,
+          "description": "linsa-io/podcasts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -150,7 +150,7 @@
         {
           "node_type": "item",
           "title": "Newsletters",
-          "description": null,
+          "description": "linsa-io/newsletters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "Cheat sheets",
-          "description": null,
+          "description": "linsa-io/cheat-sheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -206,7 +206,7 @@
         {
           "node_type": "item",
           "title": "Talks",
-          "description": null,
+          "description": "linsa-io/talks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "Alfred workflows",
-          "description": null,
+          "description": "linsa-io/alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -252,7 +252,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2775,
+            "stars": 2776,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "Command line tools",
-          "description": null,
+          "description": "linsa-io/command-line-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -298,7 +298,7 @@
         {
           "node_type": "item",
           "title": "Chrome extensions",
-          "description": null,
+          "description": "linsa-io/chrome-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,7 +326,7 @@
         {
           "node_type": "item",
           "title": "Safari extensions",
-          "description": null,
+          "description": "linsa-io/safari-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -353,7 +353,7 @@
         {
           "node_type": "item",
           "title": "Programming languages",
-          "description": null,
+          "description": "linsa-io/programming-languages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -380,7 +380,7 @@
         {
           "node_type": "item",
           "title": "Firefox extensions",
-          "description": null,
+          "description": "linsa-io/firefox-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "Telegram groups",
-          "description": null,
+          "description": "linsa-io/telegram-groups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -443,7 +443,7 @@
         {
           "node_type": "item",
           "title": "Slack groups",
-          "description": null,
+          "description": "linsa-io/slack-groups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "Forums",
-          "description": null,
+          "description": "linsa-io/forums",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -500,7 +500,7 @@
         {
           "node_type": "item",
           "title": "Events",
-          "description": null,
+          "description": "linsa-io/events",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -527,7 +527,7 @@
         {
           "node_type": "item",
           "title": "Spectrum communities",
-          "description": null,
+          "description": "linsa-io/spectrum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "YouTube channels",
-          "description": null,
+          "description": "linsa-io/youtube",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -588,7 +588,7 @@
         {
           "node_type": "item",
           "title": "Documentaries",
-          "description": null,
+          "description": "linsa-io/documentaries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -616,7 +616,7 @@
         {
           "node_type": "item",
           "title": "Movies",
-          "description": null,
+          "description": "linsa-io/movies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -643,7 +643,7 @@
         {
           "node_type": "item",
           "title": "TV series",
-          "description": null,
+          "description": "linsa-io/tv-series",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,7 +671,7 @@
         {
           "node_type": "item",
           "title": "Games",
-          "description": null,
+          "description": "linsa-io/games",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -703,7 +703,7 @@
         {
           "node_type": "item",
           "title": "macOS apps",
-          "description": null,
+          "description": "linsa-io/macos-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,10 +713,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 86,
+            "open_issues": 87,
             "owner": "linsa-io",
             "repo": "macos-apps",
-            "stars": 839,
+            "stars": 840,
             "topics": [
               "apps",
               "awesome",
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "Websites",
-          "description": null,
+          "description": "linsa-io/websites",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -742,7 +742,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 25,
+            "open_issues": 24,
             "owner": "linsa-io",
             "repo": "websites",
             "stars": 255,
@@ -760,7 +760,7 @@
         {
           "node_type": "item",
           "title": "Reddit subreddits",
-          "description": null,
+          "description": "linsa-io/reddit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "iOS apps",
-          "description": null,
+          "description": "linsa-io/ios-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -817,7 +817,7 @@
         {
           "node_type": "item",
           "title": "Humans",
-          "description": null,
+          "description": "linsa-io/humans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -845,7 +845,7 @@
         {
           "node_type": "item",
           "title": "Quotes",
-          "description": null,
+          "description": "linsa-io/quotes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -871,7 +871,7 @@
         {
           "node_type": "item",
           "title": "Quora",
-          "description": null,
+          "description": "linsa-io/quora",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "Stack Exchange sites",
-          "description": null,
+          "description": "linsa-io/stack-exchange",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -933,7 +933,7 @@
         {
           "node_type": "item",
           "title": "Awesome Lists",
-          "description": null,
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513726,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -960,7 +960,7 @@
         {
           "node_type": "item",
           "title": "Awesome Awesomeness",
-          "description": null,
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -981,7 +981,7 @@
         {
           "node_type": "item",
           "title": "Lists",
-          "description": null,
+          "description": "jnv/lists",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -994,7 +994,7 @@
             "open_issues": 32,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11518,
+            "stars": 11520,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:57:27.230Z",
+    "last_updated": "2026-10-03T04:42:03.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
@@ -1022,7 +1022,7 @@
       "open_issues": 2,
       "owner": "linsa-io",
       "repo": "curated-lists",
-      "stars": 944,
+      "stars": 945,
       "topics": [
         "awesome",
         "awesome-list",
