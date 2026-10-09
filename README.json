@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-04T15:38:20Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7691,
+            "stars": 7693,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "courses",
-            "stars": 1293,
+            "stars": 1292,
             "topics": [
               "awesome",
               "awesome-list",
@@ -252,7 +252,7 @@
             "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
-            "stars": 2776,
+            "stars": 2777,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -280,7 +280,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "linsa-io",
             "repo": "command-line-tools",
             "stars": 496,
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 49,
+            "open_issues": 50,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 480,
@@ -742,7 +742,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 27,
+            "open_issues": 26,
             "owner": "linsa-io",
             "repo": "websites",
             "stars": 255,
@@ -946,7 +946,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 516099,
+            "stars": 516341,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33707,
+            "stars": 33711,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 33,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11534,
+            "stars": 11539,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:20:42.773Z",
+    "last_updated": "2026-10-09T00:34:34.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
