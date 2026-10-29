@@ -2,7 +2,7 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,744 | 🐛 17 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,745 | 🐛 17 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,293 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 339 | 🐛 0 | 📅 2020-07-30
@@ -14,8 +14,8 @@
 ## Tools
 
 * [Alfred workflows](https://github.com/learn-anything/alfred-workflows) ⭐ 2,780 | 🐛 4 | 📅 2026-05-01
-* [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 499 | 🐛 23 | 📅 2026-08-16
-* [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 481 | 🐛 63 | 📅 2026-03-03
+* [Command line tools](https://github.com/learn-anything/command-line-tools) ⭐ 500 | 🐛 23 | 📅 2026-08-16
+* [Chrome extensions](https://github.com/learn-anything/chrome-extensions) ⭐ 481 | 🐛 64 | 📅 2026-03-03
 * [Safari extensions](https://github.com/learn-anything/safari-extensions) ⭐ 398 | 🐛 3 | 📅 2022-06-30
 * [Programming languages](https://github.com/learn-anything/programming-languages) ⭐ 333 | 🐛 2 | 📅 2024-07-09
 * [Firefox extensions](https://github.com/learn-anything/firefox-extensions) ⭐ 64 | 🐛 3 | 📅 2022-05-19
@@ -38,10 +38,10 @@
 
 ## Other
 
-* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 845 | 🐛 156 | 📅 2026-09-09
+* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 846 | 🐛 163 | 📅 2026-09-09
 * [Websites](https://github.com/learn-anything/websites) ⭐ 258 | 🐛 34 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 191 | 🐛 0 | 📅 2020-06-24
-* [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 117 | 🐛 22 | 📅 2026-07-02
+* [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 117 | 🐛 23 | 📅 2026-07-02
 * [Humans](https://github.com/learn-anything/humans) ⭐ 61 | 🐛 1 | 📅 2020-08-08
 * [Quotes](https://github.com/learn-anything/quotes) ⭐ 48 | 🐛 0 | 📅 2020-11-11
 * [Quora](https://github.com/learn-anything/quora) ⭐ 33 | 🐛 0 | 📅 2020-06-24
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 525,727 | 🐛 105 | 📅 2026-09-02
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,751 | 🐛 64 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,602 | 🐛 32 | 📅 2026-03-23
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 526,315 | 🐛 105 | 📅 2026-09-02
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,753 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
+* [Lists](https://github.com/jnv/lists) ⭐ 11,605 | 🐛 32 | 📅 2026-03-23
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
