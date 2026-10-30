@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7745,
+            "stars": 7747,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 481,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 163,
+            "open_issues": 162,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 846,
@@ -946,7 +946,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 526315,
+            "stars": 526847,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33753,
+            "stars": 33758,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -990,11 +990,11 @@
             "id": 14408715,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-03-23T20:19:22Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-29T19:14:47Z",
+            "open_issues": 2,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11605,
+            "stars": 11610,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T00:13:23.177Z",
+    "last_updated": "2026-10-30T00:08:24.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
