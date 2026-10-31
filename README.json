@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7749,
+            "stars": 7751,
             "topics": [
               "awesome",
               "awesome-list",
@@ -163,7 +163,7 @@
             "open_issues": 12,
             "owner": "linsa-io",
             "repo": "newsletters",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 67,
+            "open_issues": 68,
             "owner": "linsa-io",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -601,7 +601,7 @@
             "open_issues": 1,
             "owner": "linsa-io",
             "repo": "documentaries",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "awesome",
               "awesome-list",
@@ -713,10 +713,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 165,
+            "open_issues": 167,
             "owner": "linsa-io",
             "repo": "macos-apps",
-            "stars": 846,
+            "stars": 847,
             "topics": [
               "apps",
               "awesome",
@@ -946,7 +946,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 527497,
+            "stars": 528022,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33757,
+            "stars": 33760,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -986,15 +986,15 @@
           "repo_info": {
             "archived": false,
             "description": "The definitive list of lists (of lists) curated on GitHub and elsewhere",
-            "homepage": null,
+            "homepage": "http://jnv.github.io/lists/",
             "id": 14408715,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-30T21:52:58Z",
+            "last_commit": "2026-10-31T16:22:36Z",
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11615,
+            "stars": 11618,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T23:57:40.113Z",
+    "last_updated": "2026-10-31T23:34:00.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
@@ -1022,7 +1022,7 @@
       "open_issues": 2,
       "owner": "linsa-io",
       "repo": "curated-lists",
-      "stars": 949,
+      "stars": 950,
       "topics": [
         "awesome",
         "awesome-list",
