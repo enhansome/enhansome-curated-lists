@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7751,
+            "stars": 7755,
             "topics": [
               "awesome",
               "awesome-list",
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 167,
+            "open_issues": 166,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 847,
@@ -742,7 +742,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 34,
+            "open_issues": 37,
             "owner": "linsa-io",
             "repo": "websites",
             "stars": 258,
@@ -798,7 +798,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-02T11:20:15Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "linsa-io",
             "repo": "ios-apps",
             "stars": 117,
@@ -946,7 +946,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 528022,
+            "stars": 528695,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33760,
+            "stars": 33763,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11618,
+            "stars": 11621,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:34:00.399Z",
+    "last_updated": "2026-11-01T23:48:02.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
