@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "linsa-io",
             "repo": "books",
-            "stars": 7758,
+            "stars": 7760,
             "topics": [
               "awesome",
               "awesome-list",
@@ -249,7 +249,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-05-01T19:22:22Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "linsa-io",
             "repo": "alfred-workflows",
             "stars": 2783,
@@ -280,10 +280,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "linsa-io",
             "repo": "command-line-tools",
-            "stars": 500,
+            "stars": 501,
             "topics": [
               "awesome",
               "awesome-list",
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 166,
+            "open_issues": 167,
             "owner": "linsa-io",
             "repo": "macos-apps",
             "stars": 847,
@@ -943,10 +943,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-02T02:10:47Z",
-            "open_issues": 104,
+            "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 529717,
+            "stars": 530343,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33765,
+            "stars": 33767,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 0,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11626,
+            "stars": 11628,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:33:10.769Z",
+    "last_updated": "2026-11-04T00:48:12.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
