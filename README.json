@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Books",
-          "description": "linsa-io/books",
+          "description": "gendotnew/books",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -17,9 +17,9 @@
             "license": null,
             "last_commit": "2026-03-04T15:38:20Z",
             "open_issues": 17,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "books",
-            "stars": 7763,
+            "stars": 7764,
             "topics": [
               "awesome",
               "awesome-list",
@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "Courses",
-          "description": "linsa-io/courses",
+          "description": "gendotnew/courses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -49,9 +49,9 @@
             "license": null,
             "last_commit": "2022-02-24T12:08:44Z",
             "open_issues": 4,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "courses",
-            "stars": 1296,
+            "stars": 1297,
             "topics": [
               "awesome",
               "awesome-list",
@@ -67,7 +67,7 @@
         {
           "node_type": "item",
           "title": "Blogs",
-          "description": "linsa-io/blogs",
+          "description": "gendotnew/blogs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -78,9 +78,9 @@
             "license": null,
             "last_commit": "2024-01-02T22:59:20Z",
             "open_issues": 8,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "blogs",
-            "stars": 533,
+            "stars": 534,
             "topics": [
               "awesome",
               "awesome-list",
@@ -94,7 +94,7 @@
         {
           "node_type": "item",
           "title": "Research papers",
-          "description": "linsa-io/research-papers",
+          "description": "gendotnew/research-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,9 +105,9 @@
             "license": null,
             "last_commit": "2020-07-30T09:47:45Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "research-papers",
-            "stars": 340,
+            "stars": 341,
             "topics": [
               "awesome",
               "awesome-list",
@@ -122,7 +122,7 @@
         {
           "node_type": "item",
           "title": "Podcasts",
-          "description": "linsa-io/podcasts",
+          "description": "gendotnew/podcasts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,9 +133,9 @@
             "license": null,
             "last_commit": "2023-04-07T16:08:19Z",
             "open_issues": 1,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "podcasts",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "awesome",
               "awesome-list",
@@ -150,7 +150,7 @@
         {
           "node_type": "item",
           "title": "Newsletters",
-          "description": "linsa-io/newsletters",
+          "description": "gendotnew/newsletters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -161,9 +161,9 @@
             "license": null,
             "last_commit": "2025-07-09T17:35:27Z",
             "open_issues": 12,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "newsletters",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "awesome",
               "awesome-list",
@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "Cheat sheets",
-          "description": "linsa-io/cheat-sheets",
+          "description": "gendotnew/cheat-sheets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -189,9 +189,9 @@
             "license": null,
             "last_commit": "2020-06-24T00:31:29Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "cheat-sheets",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "awesome",
               "awesome-list",
@@ -206,7 +206,7 @@
         {
           "node_type": "item",
           "title": "Talks",
-          "description": "linsa-io/talks",
+          "description": "gendotnew/talks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -217,9 +217,9 @@
             "license": null,
             "last_commit": "2020-06-24T00:30:53Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "talks",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "awesome",
               "awesome-list",
@@ -239,7 +239,7 @@
         {
           "node_type": "item",
           "title": "Alfred workflows",
-          "description": "linsa-io/alfred-workflows",
+          "description": "gendotnew/alfred-workflows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -250,7 +250,7 @@
             "license": null,
             "last_commit": "2026-05-01T19:22:22Z",
             "open_issues": 4,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "alfred-workflows",
             "stars": 2783,
             "topics": [
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "Command line tools",
-          "description": "linsa-io/command-line-tools",
+          "description": "gendotnew/command-line-tools",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,7 +281,7 @@
             "license": null,
             "last_commit": "2026-08-16T10:39:55Z",
             "open_issues": 25,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "command-line-tools",
             "stars": 501,
             "topics": [
@@ -298,7 +298,7 @@
         {
           "node_type": "item",
           "title": "Chrome extensions",
-          "description": "linsa-io/chrome-extensions",
+          "description": "gendotnew/chrome-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -308,8 +308,8 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 70,
-            "owner": "linsa-io",
+            "open_issues": 71,
+            "owner": "gendotnew",
             "repo": "chrome-extensions",
             "stars": 482,
             "topics": [
@@ -326,7 +326,7 @@
         {
           "node_type": "item",
           "title": "Safari extensions",
-          "description": "linsa-io/safari-extensions",
+          "description": "gendotnew/safari-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -337,7 +337,7 @@
             "license": null,
             "last_commit": "2022-06-30T13:36:21Z",
             "open_issues": 4,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "safari-extensions",
             "stars": 398,
             "topics": [
@@ -353,7 +353,7 @@
         {
           "node_type": "item",
           "title": "Programming languages",
-          "description": "linsa-io/programming-languages",
+          "description": "gendotnew/programming-languages",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -364,7 +364,7 @@
             "license": null,
             "last_commit": "2024-07-09T21:56:26Z",
             "open_issues": 2,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "programming-languages",
             "stars": 334,
             "topics": [
@@ -380,7 +380,7 @@
         {
           "node_type": "item",
           "title": "Firefox extensions",
-          "description": "linsa-io/firefox-extensions",
+          "description": "gendotnew/firefox-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
             "license": null,
             "last_commit": "2022-05-19T11:52:41Z",
             "open_issues": 3,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "firefox-extensions",
             "stars": 64,
             "topics": [
@@ -415,7 +415,7 @@
         {
           "node_type": "item",
           "title": "Telegram groups",
-          "description": "linsa-io/telegram-groups",
+          "description": "gendotnew/telegram-groups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -426,7 +426,7 @@
             "license": null,
             "last_commit": "2022-11-19T15:19:43Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "telegram-groups",
             "stars": 68,
             "topics": [
@@ -443,7 +443,7 @@
         {
           "node_type": "item",
           "title": "Slack groups",
-          "description": "linsa-io/slack-groups",
+          "description": "gendotnew/slack-groups",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,7 +454,7 @@
             "license": null,
             "last_commit": "2021-06-18T12:40:10Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "slack-groups",
             "stars": 44,
             "topics": [
@@ -472,7 +472,7 @@
         {
           "node_type": "item",
           "title": "Forums",
-          "description": "linsa-io/forums",
+          "description": "gendotnew/forums",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -483,7 +483,7 @@
             "license": null,
             "last_commit": "2020-06-24T00:31:58Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "forums",
             "stars": 38,
             "topics": [
@@ -500,7 +500,7 @@
         {
           "node_type": "item",
           "title": "Events",
-          "description": "linsa-io/events",
+          "description": "gendotnew/events",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -511,7 +511,7 @@
             "license": null,
             "last_commit": "2020-08-22T16:04:56Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "events",
             "stars": 17,
             "topics": [
@@ -527,7 +527,7 @@
         {
           "node_type": "item",
           "title": "Spectrum communities",
-          "description": "linsa-io/spectrum",
+          "description": "gendotnew/spectrum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -538,7 +538,7 @@
             "license": null,
             "last_commit": "2020-06-24T00:32:58Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "spectrum",
             "stars": 10,
             "topics": [
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "YouTube channels",
-          "description": "linsa-io/youtube",
+          "description": "gendotnew/youtube",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -571,9 +571,9 @@
             "license": null,
             "last_commit": "2026-02-25T15:28:59Z",
             "open_issues": 2,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "youtube",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "awesome",
               "awesome-list",
@@ -588,7 +588,7 @@
         {
           "node_type": "item",
           "title": "Documentaries",
-          "description": "linsa-io/documentaries",
+          "description": "gendotnew/documentaries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -599,9 +599,9 @@
             "license": null,
             "last_commit": "2020-10-03T09:58:09Z",
             "open_issues": 1,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "documentaries",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "awesome",
               "awesome-list",
@@ -616,7 +616,7 @@
         {
           "node_type": "item",
           "title": "Movies",
-          "description": "linsa-io/movies",
+          "description": "gendotnew/movies",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -627,9 +627,9 @@
             "license": null,
             "last_commit": "2024-05-24T17:37:21Z",
             "open_issues": 2,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "movies",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "awesome",
               "awesome-list",
@@ -643,7 +643,7 @@
         {
           "node_type": "item",
           "title": "TV series",
-          "description": "linsa-io/tv-series",
+          "description": "gendotnew/tv-series",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -654,9 +654,9 @@
             "license": null,
             "last_commit": "2022-07-15T07:49:50Z",
             "open_issues": 1,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "tv-series",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "awesome",
               "awesome-list",
@@ -671,7 +671,7 @@
         {
           "node_type": "item",
           "title": "Games",
-          "description": "linsa-io/games",
+          "description": "gendotnew/games",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -682,9 +682,9 @@
             "license": null,
             "last_commit": "2023-07-12T19:45:47Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "games",
-            "stars": 28,
+            "stars": 29,
             "topics": [
               "awesome",
               "awesome-list",
@@ -703,7 +703,7 @@
         {
           "node_type": "item",
           "title": "macOS apps",
-          "description": "linsa-io/macos-apps",
+          "description": "gendotnew/macos-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -713,8 +713,8 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 177,
-            "owner": "linsa-io",
+            "open_issues": 179,
+            "owner": "gendotnew",
             "repo": "macos-apps",
             "stars": 847,
             "topics": [
@@ -732,7 +732,7 @@
         {
           "node_type": "item",
           "title": "Websites",
-          "description": "linsa-io/websites",
+          "description": "gendotnew/websites",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -742,10 +742,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 39,
-            "owner": "linsa-io",
+            "open_issues": 40,
+            "owner": "gendotnew",
             "repo": "websites",
-            "stars": 259,
+            "stars": 260,
             "topics": [
               "awesome",
               "awesome-list",
@@ -760,7 +760,7 @@
         {
           "node_type": "item",
           "title": "Reddit subreddits",
-          "description": "linsa-io/reddit",
+          "description": "gendotnew/reddit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -771,7 +771,7 @@
             "license": null,
             "last_commit": "2020-06-24T00:35:16Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "reddit",
             "stars": 189,
             "topics": [
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "iOS apps",
-          "description": "linsa-io/ios-apps",
+          "description": "gendotnew/ios-apps",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -799,9 +799,9 @@
             "license": null,
             "last_commit": "2026-07-02T11:20:15Z",
             "open_issues": 24,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "ios-apps",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "awesome",
               "awesome-list",
@@ -817,7 +817,7 @@
         {
           "node_type": "item",
           "title": "Humans",
-          "description": "linsa-io/humans",
+          "description": "gendotnew/humans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -828,9 +828,9 @@
             "license": null,
             "last_commit": "2020-08-08T11:55:18Z",
             "open_issues": 1,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "humans",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "awesome",
               "awesome-list",
@@ -845,7 +845,7 @@
         {
           "node_type": "item",
           "title": "Quotes",
-          "description": "linsa-io/quotes",
+          "description": "gendotnew/quotes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -856,7 +856,7 @@
             "license": null,
             "last_commit": "2020-11-11T09:26:56Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "quotes",
             "stars": 48,
             "topics": [
@@ -871,7 +871,7 @@
         {
           "node_type": "item",
           "title": "Quora",
-          "description": "linsa-io/quora",
+          "description": "gendotnew/quora",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -882,9 +882,9 @@
             "license": null,
             "last_commit": "2020-06-24T00:36:22Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "quora",
-            "stars": 33,
+            "stars": 34,
             "topics": [
               "awesome",
               "awesome-list",
@@ -899,7 +899,7 @@
         {
           "node_type": "item",
           "title": "Stack Exchange sites",
-          "description": "linsa-io/stack-exchange",
+          "description": "gendotnew/stack-exchange",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -910,7 +910,7 @@
             "license": null,
             "last_commit": "2020-06-24T00:35:52Z",
             "open_issues": 0,
-            "owner": "linsa-io",
+            "owner": "gendotnew",
             "repo": "stack-exchange",
             "stars": 29,
             "topics": [
@@ -946,7 +946,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 532500,
+            "stars": 533195,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33771,
+            "stars": 33772,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -991,10 +991,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T23:20:38Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11637,
+            "stars": 11641,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:13:53.512Z",
+    "last_updated": "2026-11-07T23:49:53.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
@@ -1020,7 +1020,7 @@
       "license": null,
       "last_commit": "2023-11-13T08:26:54Z",
       "open_issues": 2,
-      "owner": "linsa-io",
+      "owner": "gendotnew",
       "repo": "curated-lists",
       "stars": 951,
       "topics": [
