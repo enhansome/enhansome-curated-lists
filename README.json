@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "gendotnew",
             "repo": "books",
-            "stars": 7764,
+            "stars": 7766,
             "topics": [
               "awesome",
               "awesome-list",
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 179,
+            "open_issues": 184,
             "owner": "gendotnew",
             "repo": "macos-apps",
             "stars": 847,
@@ -946,7 +946,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 533195,
+            "stars": 533860,
             "topics": [
               "awesome",
               "awesome-list",
@@ -991,10 +991,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T23:20:38Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11641,
+            "stars": 11644,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T23:49:53.935Z",
+    "last_updated": "2026-11-08T23:55:14.382Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",

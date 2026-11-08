@@ -2,7 +2,7 @@
 
 ## Learn
 
-* [Books](https://github.com/learn-anything/books) ⭐ 7,764 | 🐛 17 | 📅 2026-03-04
+* [Books](https://github.com/learn-anything/books) ⭐ 7,766 | 🐛 17 | 📅 2026-03-04
 * [Courses](https://github.com/learn-anything/courses) ⭐ 1,297 | 🐛 4 | 📅 2022-02-24
 * [Blogs](https://github.com/learn-anything/blogs) ⭐ 534 | 🐛 8 | 📅 2024-01-02
 * [Research papers](https://github.com/learn-anything/research-papers) ⭐ 341 | 🐛 0 | 📅 2020-07-30
@@ -38,7 +38,7 @@
 
 ## Other
 
-* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 847 | 🐛 179 | 📅 2026-09-09
+* [macOS apps](https://github.com/learn-anything/macos-apps) ⭐ 847 | 🐛 184 | 📅 2026-09-09
 * [Websites](https://github.com/learn-anything/websites) ⭐ 260 | 🐛 40 | 📅 2026-06-23
 * [Reddit subreddits](https://github.com/learn-anything/reddit) ⭐ 189 | 🐛 0 | 📅 2020-06-24
 * [iOS apps](https://github.com/learn-anything/ios-apps) ⭐ 118 | 🐛 24 | 📅 2026-07-02
@@ -49,12 +49,12 @@
 
 ## More Lists
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 533,195 | 🐛 103 | 📅 2026-09-02
+* [Awesome Lists](https://github.com/sindresorhus/awesome) ⭐ 533,860 | 🐛 103 | 📅 2026-09-02
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,772 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02
-* [Lists](https://github.com/jnv/lists) ⭐ 11,641 | 🐛 1 | 📅 2026-11-05
+* [Lists](https://github.com/jnv/lists) ⭐ 11,644 | 🐛 3 | 📅 2026-11-05
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat\&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/) [![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
