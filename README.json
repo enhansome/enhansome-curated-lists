@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "gendotnew",
             "repo": "books",
-            "stars": 7767,
+            "stars": 7770,
             "topics": [
               "awesome",
               "awesome-list",
@@ -80,7 +80,7 @@
             "open_issues": 8,
             "owner": "gendotnew",
             "repo": "blogs",
-            "stars": 534,
+            "stars": 533,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 72,
+            "open_issues": 75,
             "owner": "gendotnew",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -390,7 +390,7 @@
             "language": null,
             "license": null,
             "last_commit": "2022-05-19T11:52:41Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "gendotnew",
             "repo": "firefox-extensions",
             "stars": 64,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 188,
+            "open_issues": 190,
             "owner": "gendotnew",
             "repo": "macos-apps",
             "stars": 847,
@@ -946,7 +946,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 534320,
+            "stars": 534883,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33779,
+            "stars": 33781,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 3,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11648,
+            "stars": 11653,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:51:22.570Z",
+    "last_updated": "2026-11-11T00:47:53.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
