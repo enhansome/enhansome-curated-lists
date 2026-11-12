@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "gendotnew",
             "repo": "books",
-            "stars": 7770,
+            "stars": 7769,
             "topics": [
               "awesome",
               "awesome-list",
@@ -252,7 +252,7 @@
             "open_issues": 4,
             "owner": "gendotnew",
             "repo": "alfred-workflows",
-            "stars": 2783,
+            "stars": 2782,
             "topics": [
               "alfred",
               "alfred-workflow",
@@ -283,7 +283,7 @@
             "open_issues": 25,
             "owner": "gendotnew",
             "repo": "command-line-tools",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "awesome",
               "awesome-list",
@@ -363,7 +363,7 @@
             "language": null,
             "license": null,
             "last_commit": "2024-07-09T21:56:26Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "gendotnew",
             "repo": "programming-languages",
             "stars": 334,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 190,
+            "open_issues": 196,
             "owner": "gendotnew",
             "repo": "macos-apps",
             "stars": 847,
@@ -742,7 +742,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 40,
+            "open_issues": 42,
             "owner": "gendotnew",
             "repo": "websites",
             "stars": 260,
@@ -801,7 +801,7 @@
             "open_issues": 24,
             "owner": "gendotnew",
             "repo": "ios-apps",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "awesome",
               "awesome-list",
@@ -946,7 +946,7 @@
             "open_issues": 103,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 534883,
+            "stars": 535390,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33781,
+            "stars": 33782,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 3,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11653,
+            "stars": 11655,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T00:47:53.484Z",
+    "last_updated": "2026-11-12T01:58:21.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
