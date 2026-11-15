@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "gendotnew",
             "repo": "books",
-            "stars": 7775,
+            "stars": 7774,
             "topics": [
               "awesome",
               "awesome-list",
@@ -283,7 +283,7 @@
             "open_issues": 25,
             "owner": "gendotnew",
             "repo": "command-line-tools",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "gendotnew",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 197,
+            "open_issues": 198,
             "owner": "gendotnew",
             "repo": "macos-apps",
             "stars": 847,
@@ -946,7 +946,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536463,
+            "stars": 536945,
             "topics": [
               "awesome",
               "awesome-list",
@@ -991,10 +991,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T23:20:38Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11661,
+            "stars": 11663,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:58:19.457Z",
+    "last_updated": "2026-11-15T00:06:20.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
