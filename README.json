@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "gendotnew",
             "repo": "books",
-            "stars": 7774,
+            "stars": 7775,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 4,
             "owner": "gendotnew",
             "repo": "courses",
-            "stars": 1297,
+            "stars": 1296,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "gendotnew",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -428,7 +428,7 @@
             "open_issues": 0,
             "owner": "gendotnew",
             "repo": "telegram-groups",
-            "stars": 68,
+            "stars": 69,
             "topics": [
               "awesome",
               "awesome-list",
@@ -713,7 +713,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 198,
+            "open_issues": 199,
             "owner": "gendotnew",
             "repo": "macos-apps",
             "stars": 847,
@@ -742,7 +742,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-06-23T20:22:13Z",
-            "open_issues": 42,
+            "open_issues": 44,
             "owner": "gendotnew",
             "repo": "websites",
             "stars": 260,
@@ -798,7 +798,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-07-02T11:20:15Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "gendotnew",
             "repo": "ios-apps",
             "stars": 119,
@@ -946,7 +946,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 536945,
+            "stars": 537502,
             "topics": [
               "awesome",
               "awesome-list",
@@ -991,10 +991,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-11-05T23:20:38Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11663,
+            "stars": 11662,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:06:20.178Z",
+    "last_updated": "2026-11-16T00:12:48.157Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
