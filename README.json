@@ -19,7 +19,7 @@
             "open_issues": 17,
             "owner": "gendotnew",
             "repo": "books",
-            "stars": 7786,
+            "stars": 7789,
             "topics": [
               "awesome",
               "awesome-list",
@@ -308,7 +308,7 @@
             "language": null,
             "license": null,
             "last_commit": "2026-03-03T14:29:41Z",
-            "open_issues": 82,
+            "open_issues": 84,
             "owner": "gendotnew",
             "repo": "chrome-extensions",
             "stars": 482,
@@ -713,10 +713,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-09-09T07:19:36Z",
-            "open_issues": 205,
+            "open_issues": 211,
             "owner": "gendotnew",
             "repo": "macos-apps",
-            "stars": 849,
+            "stars": 848,
             "topics": [
               "apps",
               "awesome",
@@ -946,7 +946,7 @@
             "open_issues": 104,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 538586,
+            "stars": 539059,
             "topics": [
               "awesome",
               "awesome-list",
@@ -973,7 +973,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33794,
+            "stars": 33797,
             "topics": []
           },
           "first_seen": "2026-08-28T04:25:45.926Z"
@@ -994,7 +994,7 @@
             "open_issues": 7,
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11668,
+            "stars": 11671,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1010,7 +1010,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:31:49.670Z",
+    "last_updated": "2026-11-19T01:57:29.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated lists on various topics",
